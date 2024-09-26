@@ -1,0 +1,890 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<style>
+.icon1{
+border-radius:50%;
+border:2px solid  blue;
+}
+.text-box{
+    width: 100%;
+    color: #fff;
+    position:absolute;
+    top: -70%;
+    left: 48%;
+    transform: translate(-50%,50%);
+    text-align: center;
+}
+.text-box h1{
+    font-size: 42px;
+    font-weight: bold;
+
+}
+.container {
+     width: 1200px;
+     margin:0px auto;
+}
+ .main-section {
+     width: 100%;
+     float: left;
+     padding:50px 0px 40px 0px;
+}
+.heading {
+     font-size: 22px;
+     font-weight: 500;
+     border-bottom: 1px solid #ff5722;
+     margin-bottom:25px;
+     color: #ff5722;
+}
+.heading1 {
+     font-size: 22px;
+     font-weight: 500;
+     border-bottom: 1px solid #ff5722;
+     margin-bottom:15px;
+     color: #ff5722;
+}
+.event {
+     width: 49%;
+     margin-right: 1%;
+     float: left;
+}
+
+.event1 {
+     width: 29%;
+}
+
+ .event div {
+     padding:10px;
+     background-color: #f0f3fa;
+}
+ .event ul li {
+     margin-bottom: 20px;
+     width: 100%;
+     float: left;
+}
+
+    </style>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <!-- Title -->
+   
+    <title>Government Polytechnic for women ,kadapa</title>
+<link rel="stylesheet" href="css/main_style.css">
+    <link rel="shortcut icon" href="image/logo.ico" type="image/svg+xml">
+    <!-- Favicon -->
+    <!--<link rel="icon" href="https://gpnashik.ac.in/assets/img/core-img/favicon.png">--->
+   <!---- <link href="https://fonts.googleapis.com/css?family=Karla" rel="stylesheet">->
+    <!-- Stylesheet -->
+	<link rel="stylesheet" href="https://gpnashik.ac.in/assets/css/style.css">
+    <link rel="stylesheet" href="https://gpnashik.ac.in/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://gpnashik.ac.in/assets/css/classy-nav.css">
+    <link rel="stylesheet" href="https://gpnashik.ac.in/assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://gpnashik.ac.in/assets/css/animate.css">
+    <link rel="stylesheet" href="https://gpnashik.ac.in/assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="https://gpnashik.ac.in/assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://gpnashik.ac.in/assets/css/audioplayer.css">
+    <link rel="stylesheet" href="https://gpnashik.ac.in/assets/css/one-music-icon.css">
+    
+<style type="text/css">
+   body {
+   font-family: 'Karla', sans-serif;
+   
+   }
+</style>
+</head>
+
+<body>
+    <!-- Preloader -->
+   
+
+    <!-- ##### Header Area Start ##### -->
+    <div>
+       
+    <header class="header-area" class="container-fluid">
+             <!--<a href="#" class="nav-brand"><img   src="https://gpnashik.ac.in/assets/img/core-img/logo3.jpg" alt="" style="height: 10vw;
+              margin-top:-1.6vw; margin-left: 0vw;"></a>-->
+        
+        <!-- Navbar Area -->
+        <div class="oneMusic-main-menu" style="background-color: black; height: 50px; ">
+            <div class="classy-nav-container breakpoint-off">
+                       
+                  
+                  <!-- Nav brand -->
+                <div class="container" style="margin-top:5px; ">
+                    <!-- Menu -->
+                    <nav class="classy-navbar justify-content-between" id="oneMusicNav">
+
+                
+                        <!-- Navbar Toggler -->
+                        <div class="classy-navbar-toggler">
+                            <span class="navbarToggler"><span></span><span></span><span></span></span>
+                        </div>
+
+                        <!-- Menu -->
+                        <div class="classy-menu">
+
+                            <!--   -->
+                            <div class="classycloseIcon">
+                                <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                            </div>
+
+                            <!-- Nav Start -->
+                            <div class="classynav">
+                                <ul>
+								<br><br>
+								&nbsp &nbsp &nbsp<a href="index.html"><img class="icon1" src="image/logo.jpg" id="logo-img" ></a>&nbsp &nbsp &nbsp
+								<span></span>
+							<div class="text-box">
+            <h1>Government Polytechnic for Women,Kadapa</h1>
+                      
+                 </div>
+			<!---<a href="index.html"><img src="image/NBA_RITS_2.png" id="logo-img" ></a>--->
+	 	<!---S<h1>Government Polytechnic for Women,kadapa</h1>--->
+
+								<br><br>
+                   <!--<li style="margin-bottom:30px;"><a href="https://gpnashik.ac.in/Home" >Home</a></li>--->
+				  <li style="margin-bottom:10px;"> <a href="D:\Web Page Programs\College Website Project\otherweb.html">home</a>
+                     <li><a href="#">DEPARTMENT</a>
+                 <ul class="dropdown">
+                   <li><a href="#">Computer Engineering</a>
+                    <ul class="dropdown">
+                                        <li><a  href="D:\Web Page Programs\College Website Project\cscprofile.html">Profile</a></li>
+                                        <li><a  href="D:\Web Page Programs\College Website Project\cschoddesk.html">HOD's Desk</a></li>
+                                        <li><a  href="D:\Web Page Programs\College Website Project\cscfaculty.html">Faculty</a></li>
+                                        <li><a  href="D:\Web Page Programs\College Website Project\csclaboratory.html">Laboratory</a></li>
+                                       <!-- <li><a><a  href="https://gpnashik.ac.in/Department/ce2_achievement">Achievements</a></li>
+                                        <li><a><a  href="https://gpnashik.ac.in/Department/ce2_plans">Future Plans</a></li>-->
+                     </ul>
+                   </li>
+                   <li><a href="#">Electrical Engineering </a>
+                    <ul class="dropdown">
+                                       <li><a  href="D:\Web Page Programs\College Website Project\eeeprofile.html">Profile</a></li>
+                                        <li><a  href="D:\Web Page Programs\College Website Project\eeehoddesk.html">HOD's Desk</a></li>
+                                        <li><a  href="D:\Web Page Programs\College Website Project\eeefaculty.html">Faculty</a></li>
+                                        <li><a  href="D:\Web Page Programs\College Website Project\eeelaboratory.html">Laboratory</a></li>
+                                       <!-- <li><a><a  href="https://gpnashik.ac.in/Department/ce2_achievement">Achievements</a></li>
+                                        <li><a><!--<a  href="https://gpnashik.ac.in/Department/ce2_plans">Future Plans</a></li>-->
+                     </ul>
+                   </li>
+                    <li><a href="#">Electronic Engineering</a>
+                    <ul class="dropdown">
+                                       <li><a href="D:\Web Page Programs\College Website Project\ECE PROFILE.html">Profile</a></li>
+                                        <li><a href="D:\Web Page Programs\College Website Project\ECE hod desk.html">HOD's Desk</a></li>
+                                        <li><a href="D:\Web Page Programs\College Website Project\ECEfalculty.html">Faculty</a></li>
+                                        <li><a href="D:\Web Page Programs\College Website Project\ECElaboratory.html">Laboratory</a></li>
+                                       <!-- <li><a><!--<a  href="https://gpnashik.ac.in/Department/me_achievement">AchievementS</a></li>-->
+                                       <!-- <li><a><!--<a  href="https://gpnashik.ac.in/Department/me_plans">Future Plans</a></li>-->
+                     </ul>
+                   </li>
+                   <li><a href="#">civil Engineering</a>
+                    <ul class="dropdown">
+										<li><a  href="D:\Web Page Programs\College Website Project\civilprofile.html">Profile</a></li>
+                                        <li><a  href="D:\Web Page Programs\College Website Project\civilhoddesk.html">HOD's Desk</a></li>
+                                         <li><a  href="D:\Web Page Programs\College Website Project\civilfaculty.html">Faculty</a></li>
+                                        <li><a  href="D:\Web Page Programs\College Website Project\civillaboratory.html">Laboratory</a></li>
+                                       <!-- <li><a><a  href="https://gpnashik.ac.in/Department/me2_achievement">Achievements</a></li>
+                                        <li><a><a  href="https://gpnashik.ac.in/Department/me2_plans">Future Plans</a></li>-->
+                     </ul>
+                   </li>
+                    <li><a href="#">Pharmacy</a>
+                    <ul class="dropdown">
+										<li><a  href="D:\Web Page Programs\College Website Project\pharmacyprofile.html">Profile</a></li>
+                                        <li><a  href="D:\Web Page Programs\College Website Project\pharmacyhoddesk.html">HOD's Desk</a></li>
+                                        <li><a  href="D:\Web Page Programs\College Website Project\pharmacyfaculty.html">Faculty</a></li>
+                                        <li><a  href="D:\Web Page Programs\College Website Project\pharmacylaboratory.html">Laboratory</a></li>
+                                       <!-- <li><a><a  href="https://gpnashik.ac.in/Department/ee_achievement">Achievements</a></li>
+                                        <li><a><a  href="https://gpnashik.ac.in/Department/ee_plans">Future Plans</a></li>-->
+                     </ul>
+                   </li>
+              <!--    <li><a href="#">Mechatronics Engineering</a>
+                    <ul class="dropdown">
+                     <li><a  href="https://gpnashik.ac.in/Department/mt_profile">Profile</a></li>
+                                      <li><a  href="https://gpnashik.ac.in/Department/mt_hod">HOD's Desk</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/mt_faculty">Faculty</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/mt_lab">Laboratory</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/mt_achievement">Achievements</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/mt_plans">Future Plans</a></li>
+                     </ul>
+                   </li>
+                    <li><a href="#">Computer Technology</a>
+                    <ul class="dropdown">
+                     <li><a  href="https://gpnashik.ac.in/Department/cm_profile">Profile</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/cm_hod">HOD's Desk</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/cm_faculty">Faculty</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/cm_lab">Laboratory</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/cm_achievement">Achievements</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/cm_plans">Future Plans</a></li>
+                     </ul>
+                   </li>
+                    <li><a href="#">Information Technology</a>
+                    <ul class="dropdown">
+                      <li><a  href="https://gpnashik.ac.in/Department/if_profile">Profile</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/if_hod">HOD's Desk</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/if_faculty">Faculty</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/if_lab">Laboratory</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/if_achievement">Achievements</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/if_plans">Future Plans</a></li>
+                     </ul>
+                   </li>
+                    <li><a href="#">Plastic Engineering</a>
+                    <ul class="dropdown">
+                      <li><a  href="https://gpnashik.ac.in/Department/ps_profile">Profile</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/ps_hod">HOD's Desk</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/ps_faculty">Faculty</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/ps_lab">Laboratory</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/ps_achievement">Achievements</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/ps_plans">Future Plans</a></li>
+                     </ul>
+                   </li>
+                    <li><a href="#">Electronic & Telecommunication</a>
+                    <ul class="dropdown">
+                     <li><a  href="https://gpnashik.ac.in/Department/entc_profile">Profile</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/entc_hod">HOD's Desk</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/entc_faculty">Faculty</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/entc_lab">Laboratory</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/entc_achievement">Achievements</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/entc_plans">Future Plans</a></li>
+                     </ul>
+                   </li>
+                   <li><a href="#">Electronic & Telecommunication II</a>
+                    <ul class="dropdown">
+                     <li><a  href="https://gpnashik.ac.in/Department/entc2_profile">Profile</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/entc2_hod">HOD's Desk</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/entc2_faculty">Faculty</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/entc2_lab">Laboratory</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/entc2_achievement">Achievements</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/entc2_plans">Future Plans</a></li>
+                     </ul>
+                   </li>
+                    <li><a href="#">Automobile Engineering</a>
+                    <ul class="dropdown">
+                    <li><a  href="https://gpnashik.ac.in/Department/ae_profile">Profile</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/ae_hod">HOD's Desk</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/ae_faculty">Faculty</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/ae_lab">Laboratory</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/ae_achievement">Achievements</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/ae_plans">Future Plans</a></li>
+                     </ul>
+                   </li>
+                    <li><a href="#">Dress Design.&Garment Manu.</a>
+                    <ul class="dropdown">
+                     <li><a  href="https://gpnashik.ac.in/Department/ddgm_profile">Profile</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/ddgm_hod">HOD's Desk</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/ddgm_faculty">Faculty</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/ddgm_lab">Laboratory</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/ddgm_achievement">Achievements</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/ddgm_plans">Future Plans</a></li>
+                     </ul>-->
+                  <!-- </li>
+                    <li><a href="#">Interior Design & Decoration</a>
+                    <ul class="dropdown">
+                    <li><a  href="https://gpnashik.ac.in/Department/idd_profile">Profile</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/idd_hod">HOD's Desk</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/idd_faculty">Faculty</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/idd_lab">Laboratory</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/idd_achievement">Achievements</a></li>
+                                        <li><a  href="https://gpnashik.ac.in/Department/idd_plans">Future Plans</a></li>
+                     </ul>
+                   </li>-->
+
+                 <!-- <li><a href="#">Other Department</a>-->
+                    <ul class="dropdown">
+                   <!-- <li><a  href="#">Science</a>
+                     <ul class="dropdown">
+                        <li><a href="https://gpnashik.ac.in/Department/science_profile">Profile</a></li>
+                        <li><a href="https://gpnashik.ac.in/Department/science_faculty">Faculty</a></li> 
+                     </ul>
+                    </li>
+                    <li><a  href="#">Workshop</a>
+                        <ul class="dropdown">
+                        <li><a href="https://gpnashik.ac.in/Department/workshop_profile">Profile</a></li>
+                        <li><a href="https://gpnashik.ac.in/Department/workshop_faculty">Faculty</a></li>
+                        <li><a href="https://gpnashik.ac.in/Department/workshop_plans">Future Plans</a></li> 
+                     </ul>
+                    </li>
+                    <li><a  href="#">Applied Mechanics</a>
+                        <ul class="dropdown">
+                        <li><a href="https://gpnashik.ac.in/Department/mechanics">Profile</a></li> 
+                        <li><a href="https://gpnashik.ac.in/Department/mechanics_faculty">Faculty</a></li>
+                     </ul>
+                    </li>
+                    <li><a  href="#">Office</a>
+                    <ul class="dropdown">
+                        <li><a href="https://gpnashik.ac.in/Department/office">Profile</a></li>
+                     </ul></li>-->
+                                        
+                     </ul>
+                   </li>
+                 </ul>
+                </li>
+                                    <li><a href="#">Academic</a>
+                                        <ul class="dropdown">
+                                          <!---  <li><a href="#"><!---Curriculum Development Cell</a>--->
+                                                <ul class="dropdown">
+                                                 <!--   <li><a><!--<a  href="https://gpnashik.ac.in/Academic/cdc_profile">Profile</a></li>
+                                        <!--<li><a><!--<a  href="https://gpnashik.ac.in/Academic/cdc_head">CDC Head's Desk</a></li>-->
+                                                </ul>
+                                            </li>
+                                              <li><a href="#">Examination Cell</a>
+                                                <ul class="dropdown">
+                                                  <!--  <li><a><!--<a  href="https://gpnashik.ac.in/Academic/ec_profile">Profile</a></li>
+                                    <li><a><!--<a  href="https://gpnashik.ac.in/Academic/ec_head">COE Head's Desk</a></li> 
+                                    <li><a><!--<a  href="https://gpnashik.ac.in/Academic/ec_faculty">Faculty </a></li>
+                                    <li><a><!--<a  href="https://gpnashik.ac.in/Academic/ec_plans">Future Plans</a></li>-->
+                                                </ul>
+                                            </li>
+                                              <li><a href="#">Curriculum</a>
+                                                <ul class="dropdown">
+                                                    <li><a  href="D:\Web Page Programs\College Website Project\c-20.html">Curriculum (c-20)</a></li>
+                                     <li><a  href="D:\Web Page Programs\College Website Project\c-23.html">Curriculum (c-23) </a></li>
+                                                </ul>
+                                            </li>
+
+                                      <li><a href="#">Library</a>
+                                                <ul class="dropdown">
+                                                 <li><a><!--<a  href="https://gpnashik.ac.in/Academic/library_profile">-->Profile</a></li>
+                                      <li><a><!--<a  href="https://gpnashik.ac.in/Academic/librarian_desk">-->Librarian Desk</a></li>
+                                       <li><a><!--<a  href="https://gpnashik.ac.in/Academic/library_faculty">-->Faculty</a></li>
+                                       <li><a><!--<a  href="https://gpnashik.ac.in/Academic/library_plans">-->Future Plans</a></li>
+                                                </ul>
+                                            </li>
+                                             <li><a><!--<a  href="https://gpnashik.ac.in/Academic/result">-->Result</a></li>
+                                             <li><a  href="#">Academic Calendar</a>
+                                                <ul class="dropdown">
+                                                 <li><a><!--<a  href="https://gpnashik.ac.in/assets/img/academic/Academic_calendar.pdf" target="_blank">-->Academic Calendar</a></li>
+                                                </ul>
+                                             </li>
+                                <li><a  href="D:\Web Page Programs\College Website Project\scholorship.html">Scholarship</a></li>
+                                        </ul>
+                                    </li>
+                                     <li><a href="#">Admission</a>
+                                        <ul class="dropdown">
+                                           <li><a><!--<a href="https://gpnashik.ac.in/Admission/Programs_offered">-->Programs Offered</a></li>
+                                           <li><a><!--<a href="https://gpnashik.ac.in/Admission/Information_broucher">-->Information Broucher</a></li>
+                                         <li><a href="#">Fees</a>
+                                            <ul class="dropdown">
+                                                <li><a><!--<a href="https://gpnashik.ac.in/Admission/Fee_structure">-->SBI Payment Portal</a></li>
+                                            </ul>
+                                         </li>
+                                            <li><a href="#">Admission Details</a>
+                                                <ul class="dropdown">
+                                                    <li><a><!--<a href="https://gpnashik.ac.in/Admission/Admission_SSC">-->After SSC</a></li>
+                                                    <li><a><!--<a href="https://gpnashik.ac.in/Admission/Admission_HSC">-->After Intermediate</a></li>
+                                                </ul>
+                                            </li>
+                                            <li><a href="#">Hostel</a>
+                                                <ul class="dropdown">
+                                                   <!---  <li><a href="https://gpnashik.ac.in/Admission/Hostel_boys">Boy's Hostel</a></li>--->
+                                    <li><a><!--<a href="https://gpnashik.ac.in/Admission/Hostel_girls">-->Girl's Hostel</a></li> 
+                                                </ul>
+                                           </li>
+                                        </ul>
+                                    </li>
+                <!-- <li><a href="#">Information</a>
+                      <ul class="dropdown">
+                        <li><a><a  href="https://gpnashik.ac.in/Information/Mandatory_disclosure">Mandatory Disclosure</a></li>
+                        <li><a><a  href="https://gpnashik.ac.in/Information/Right_to_information_act">Right to Information Act</a></li>
+                       <li><a><a  href="https://gpnashik.ac.in/Information/Antiragging_committee">Antiragging Committee</a></li>
+                       <li><a><a  href="https://gpnashik.ac.in/Information/Grievances_committee" >Grievances Committee</a></li>
+                       <li><a><a  href="https://gpnashik.ac.in/Information/Citizen_charter">Citizen Charter</a></li>
+                      <li><a><a  href="https://gpnashik.ac.in/Information/Community_college">Community College</a></li>
+                    </ul>
+                  </li>-->
+                  <li><a href="#">Placement</a>
+                    <ul class="dropdown">
+                      <li><a><!--<a href="https://gpnashik.ac.in/Placement/Placement_overview">-->Placement Overview</a></li>
+                      <li><a><!--<a href="https://gpnashik.ac.in/Placement/Our_recruiter">-->Our Recruiters</a></li>
+                    </ul>
+                  </li>
+                  <li><a href="#">Student Corner</a>
+                    <ul class="dropdown">
+                      <li><a><!--<a href="https://gpnashik.ac.in/Stud_corner/student_section">-->Student Section</a></li>
+                    <li><a><!--<a  href="https://gpnashik.ac.in/Stud_corner/gymkhana">-->Gymkhana</a></li>
+                    <li><a><!--<a href="https://gpnashik.ac.in/Stud_corner/student_council" >-->Examination Rules</a></li>
+                    <li><a><!--<a href="https://gpnashik.ac.in/Stud_corner/alumni_house">-->Alumni House</a></li>
+                    <li><a><!--<a href="https://gpnashik.ac.in/Stud_corner/student_grievance">-->Student Grievance</a></li>
+                    </ul>
+                  </li>
+                  <li><a href="#">About Us</a>
+                     <ul class="dropdown">
+                         <li><a><!--<a href="https://gpnashik.ac.in/AboutUs/institute">-->Institute</a></li>
+                         <li><a><!--<a href="https://gpnashik.ac.in/AboutUs/principal_desk">-->Principal's Desk</a></li>
+                        <li><a><!--<a  href="https://gpnashik.ac.in/AboutUs/governing_body">-->Governing Body</a></li>
+                        <li><a><!--<a  href="https://gpnashik.ac.in/AboutUs/org_chart">-->Organizational Chart</a></li>
+                        <li><a><!--<a  href="https://gpnashik.ac.in/AboutUs/board_of_studies">-->Board of Studies</a></li>
+                        <li><a><!--<a  href="https://gpnashik.ac.in/AboutUs/photogallery">-->Photogallery</a></li>                    
+                     </ul>
+                </li>
+                <li><a href="#"> Magazine</a>
+                     <ul class="dropdown">
+					 <li><a>Technical Magazine</a></li>
+					 </ul>
+					 </li>
+                                   
+                                </ul>
+
+                            </div>
+                            <!-- Nav End -->
+
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+</div>
+    <!-- ##### Header Area End ##### -->
+<!-- ##### Hero Area Start ##### -->
+    
+
+    <!-- ##### Hero Area End ##### -->
+
+
+    <!-- ##### All Javascript Script ##### -->
+    <!-- jQuery-2.2.4 js -->
+   <script src="https://gpnashik.ac.in/assets/js/jquery/jquery-2.2.4.min.js"></script>
+    <!-- Popper js -->
+   <!-- <script src="https://gpnashik.ac.in/assets/js/bootstrap/popper.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="https://gpnashik.ac.in/assets/js/bootstrap/bootstrap.min.js"></script>
+    <!-- All Plugins js -->
+    <script src="https://gpnashik.ac.in/assets/js/plugins/plugins.js"></script>
+    <!-- Active js -->
+  <script src="https://gpnashik.ac.in/assets/js/active.js"></script>
+<!-- ##### Breadcumb Area Start ##### -->
+    <section class="breadcumb-area bg-img bg-overlay"
+     style="background-image: url(https://gpnashik.ac.in/assets/img/bg-img/breadcumb1.jpg);">
+        <div class="bradcumbContent">
+            <h2>ECE  Role of Response</h2>
+        </div>
+    </section>
+
+    <!-- ##### Breadcumb Area End ##### -->
+	<br><br><br><br>
+	
+	<!--<section>
+	<!-- Action box 
+	<div class="faculty">
+													<div class="row align-items-center"> 
+														<div class="align-items-center"> 
+															<!-- Title 
+															<div class="row"> 
+																<h3 class="text-white mb-5">Our Faculty</h3> 
+																 
+																			<div class="col-sm-6 col-lg-4 col-xl-3 mb-4"> 
+																				<div class="card shadow h-100 pt-3"> 
+																					<img src="media/govtpolyvempalli_ac_in/facultyimg_1674_1672074400_image031.jpg" class="card-img-top" alt="course image"> 
+																					<div class="card-body pb-1 pt-1"> 
+																						<div class="desig"> 
+																							<a href="#" class="badge bg-purple bg-opacity-10 text-purple">Lecturer<a> 
+																						</div> 
+																						<h5 class="card-title fw-normal">    </h5> 
+																						 
+																					</div> 
+																					 
+																				</div> 
+																			</div> 
+																 
+																			<div class="col-sm-6 col-lg-4 col-xl-3 mb-4"> 
+																				<div class="card shadow h-100 pt-3"> 
+																					<img src="media/govtpolyvempalli_ac_in/facultyimg_1675_1672074400_image033.jpg" class="card-img-top" alt="course image"> 
+																					<div class="card-body pb-1 pt-1"> 
+																						<div class="desig"> 
+																							<a href="#" class="badge bg-purple bg-opacity-10 text-purple">Lecturer</a> 
+																						</div> 
+																						<h5 class="card-title fw-normal">      </h5> 
+																						 
+																					</div> 
+																					 
+																				</div> 
+																			</div> 
+																 
+																			<div class="col-sm-6 col-lg-4 col-xl-3 mb-4"> 
+																				<div class="card shadow h-100 pt-3"> 
+																					<img src="media/govtpolyvempalli_ac_in/facultyimg_1676_1672074400_image035.jpg" class="card-img-top" alt="course image"> 
+																					<div class="card-body pb-1 pt-1"> 
+																						<div class="desig"> 
+																							<a href="#" class="badge bg-purple bg-opacity-10 text-purple">Lecturer</a> 
+																						</div> 
+																						<h5 class="card-title fw-normal">   </h5> 
+																						 
+																					</div> 
+																					 
+																				</div> 
+																			</div> 
+																 
+																			<div class="col-sm-6 col-lg-4 col-xl-3 mb-4"> 
+																				<div class="card shadow h-100 pt-3"> 
+																					<img src="media/govtpolyvempalli_ac_in/facultyimg_1677_1672074400_image037.jpg" class="card-img-top" alt="course image"> 
+																					<div class="card-body pb-1 pt-1"> 
+																						<div class="desig"> 
+																							<a href="#" class="badge bg-purple bg-opacity-10 text-purple">Lecturer</a> 
+																						</div> 
+																						<h5 class="card-title fw-normal"> </h5> 
+																						 
+																					</div> 
+																					 
+																				</div> 
+																			</div> 
+																 
+																			<div class="col-sm-6 col-lg-4 col-xl-3 mb-4"> 
+																				<div class="card shadow h-100 pt-3"> 
+																					<img src="media/govtpolyvempalli_ac_in/facultyimg_1678_1672074400_image039.jpg" class="card-img-top" alt="course image"> 
+																					<div class="card-body pb-1 pt-1"> 
+																						<div class="desig"> 
+																							<a href="#" class="badge bg-purple bg-opacity-10 text-purple">Lecturer</a> 
+																						</div> 
+																						<h5 class="card-title fw-normal">    </h5> 
+																						 
+																					</div> 
+																					 
+																				</div> 
+																			</div> 
+																 
+															</div> 
+															 
+														</div> <!-- Row END --> 
+													<!--</div> 
+												</div> 
+											</div> 
+										</div> 
+									</div> <!-- Row END --> 
+								<!--</div> 
+							</section> 
+ 
+						</div> 
+					</div> 
+					</div>
+					.faculty
+					{
+					background-color: blue;
+					}-->	
+					
+					<html><body>
+<table border="4" width="100%" text-align="center">
+
+<tr><td style="text-align:center">S.no</td>
+<td style="text-align:center"><b>Year</b></td>
+<td style="text-align:center"><b>Scheme</b></td>
+<td style="text-align:center"><b>PIN</b></td>
+<td style="text-align:center"><b>Student Name</b></td>
+<td style="text-align:center"><b>Percentage</b></td>
+</tr>
+<tr><td style="text-align:center">1</td>
+<td style="text-align:center">2011</td>
+<td style="text-align:center">C-05</td>
+<td style="text-align:center">08057-CM-027</td>
+<td style="text-align:center">B.Meena</td>
+<td style="text-align:center">89.77</td>
+</tr>
+<tr><td style="text-align:center">2</td>
+<td style="text-align:center">2012</td>
+<td style="text-align:center">C-09</td>
+<td style="text-align:center">09057-CM-016</td>
+<td style="text-align:center">D.Lavanya</td>
+<td style="text-align:center">85.65</td>
+</tr>
+<tr><td style="text-align:center">3</td>
+<td style="text-align:center">2013</td>
+<td style="text-align:center">C-09</td>
+<td style="text-align:center">10057-CM-014</td>
+<td style="text-align:center">P.Jyothsna</td>
+<td style="text-align:center">93.48</td>
+</tr>
+<tr><td style="text-align:center">4</td>
+<td style="text-align:center">2014</td>
+<td style="text-align:center">C-09</td>
+<td style="text-align:center">11057-CM-002</td>
+<td style="text-align:center">Z.Vincy</td>
+<td style="text-align:center">86.04</td>
+</tr>
+<tr>
+<td style="text-align:center">5</td>
+<td style="text-align:center">2015</td>
+<td style="text-align:center">C-09</td>
+<td style="text-align:center">12057-CM-301</td>
+<td style="text-align:center">D.Sai Ravali</td>
+<td style="text-align:center">92.9</td>
+</tr>
+<tr><td style="text-align:center">6</td>
+<td style="text-align:center">2016</td>
+<td style="text-align:center">C-09</td>
+<td style="text-align:center">13057-CM-003</td>
+<td style="text-align:center">A.Vaishnavi</td>
+<td style="text-align:center">91.2</td>
+</tr>
+<tr>
+<td style="text-align:center">7</td>
+<td style="text-align:center">2017</td>
+<td style="text-align:center">C-14</td>
+<td style="text-align:center">14057-CM-022</td>
+<td style="text-align:center">N.Aruna Devi</td>
+<td style="text-align:center">93.04</td>
+</tr>
+<tr><td style="text-align:center">8</td>
+<td style="text-align:center">2018</td>
+<td style="text-align:center">C-14</td>
+<td style="text-align:center">15057-CM-001</td>
+<td style="text-align:center">A.Hari Priya Devi</td>
+<td style="text-align:center">90.47</td>
+</tr>
+<tr>
+<td style="text-align:center">9</td>
+<td style="text-align:center">2019</td>
+<td style="text-align:center">C-16</td>
+<td style="text-align:center">16057-CM-035</td>
+<td style="text-align:center">C.Jyothsna</td>
+<td style="text-align:center">95.1</td>
+</tr>
+<tr><td style="text-align:center">10</td>
+<td style="text-align:center">2020</td>
+<td style="text-align:center">C-16</td>
+<td style="text-align:center">17057-CM-035</td>
+<td style="text-align:center">S.Mounica</td>
+<td style="text-align:center">96.03</td>
+</tr>
+<tr><td style="text-align:center">11</td>
+<td style="text-align:center">2021</td>
+<td style="text-align:center">C-16</td>
+<td style="text-align:center">18057-CM-026</td>
+<td style="text-align:center">M.Vasanthi</td>
+<td style="text-align:center">96</td>
+</tr>
+<tr>
+<td style="text-align:center">12</td>
+<td style="text-align:center">2022</td>
+<td style="text-align:center">C-16</td>
+<td style="text-align:center">19057-CM-014</td>
+<td style="text-align:center">K.Uma Maheswari</td>
+<td style="text-align:center">94.28</td>
+</tr>
+<tr><td style="text-align:center">13</td>
+<td style="text-align:center">2023</td>
+<td style="text-align:center">C-20</td>
+<td style="text-align:center">20057-CM-031</td>
+<td style="text-align:center">K.Nandu Vaishanvi</td>
+<td style="text-align:center">92.55</td>
+</tr>
+
+</table>
+<br/><br/><br/><br/><br/><br/>
+<br/>
+</body></html>
+	
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Karla" rel="stylesheet">
+ 
+   
+   
+   <br><br><br><br>
+    <br><br><br><br>
+   
+     <!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="https://gpnashik.ac.in/assets/css/homepage.css">
+	<style type="text/css">
+		 #section5{
+            margin-top: 10vw;
+        }
+
+     @media only screen and (max-width: 600px) {
+      #section5{
+        margin-top: 350vw;
+    }
+}
+
+@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+body {
+   
+    -webkit-font-smoothing: antialiased;
+}
+a {
+    text-decoration: none;
+    color: blue;
+}
+p > a:hover{
+    color: #d9d9d9;
+    text-decoration:  underline;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin:  1% 0 1% 0;
+
+}
+._12 {
+    font-size: 1.2em;
+}
+._14 {
+    
+    color: #FFF;
+}
+ul {
+    padding:0;
+    list-style: none;
+}
+
+<!--.social-icon {
+    color: #fff;
+}
+ul.social-icons {
+    margin-top: 10px;
+}
+.social-icons li {
+    vertical-align: top;
+    display: inline;
+    height: 100px;
+}
+.social-icons a {
+    color: #fff;
+    text-decoration: none;
+}
+.fa-facebook {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #263238;
+}
+.fa-facebook:hover {
+    background-color: #3d5b99;
+}
+.fa-twitter {
+    padding:10px 12px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #263238;
+}
+.fa-twitter:hover {
+    background-color: #00aced;
+}
+.fa-rss {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #263238;
+}
+.fa-rss:hover {
+    background-color: #eb8231;
+}
+.fa-youtube {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #263238;
+}
+.fa-youtube:hover {
+    background-color: #e64a41;
+}
+.fa-linkedin {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #263238;
+}
+.fa-linkedin:hover {
+    background-color: #0073a4;
+}
+.fa-google-plus {
+    padding:10px 9px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #263238;
+}
+.fa-google-plus:hover {
+    background-color: #e25714;
+}-->
+	</style>
+</head>
+<body>
+<br><br><br><br>
+<br><br>
+
+<section id="section5">
+   <!--footer starts from here-->
+<footer class="footer">
+<div class="container bottom_border">
+<div class="row">
+
+<div class=" col-sm-4 col-md  col-6 col">
+<h5 class="headin5_amrc col_white_amrc pt2" style="color: #fafafa ">Design & Developed By</h5>
+
+<!--headin5_amrc-->
+<ul class="footer_ul_amrc">
+<h5 class="headin5_amrc col_white_amrc pt2" style="color: #fafafa "><li><a>Students of Third Years of Computer Engineering</h5>
+<h5 class="headin5_amrc col_white_amrc pt2" style="color: #fafafa ">our college route</h5>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d85358.48499519566!2d78.83506037531265!3d14.413283014369554!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb3721181f93dd7%3A0x2f9f19f720c25014!2sGovernment%20Polytechnic%20For%20Women!5e0!3m2!1sen!2sin!4v1722705513573!5m2!1sen!2sin" width="200" height="150" style="border:0;" allowfullscreen="" align="left" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+
+
+<!--<li><a href="#">Students of Third Years of Computer Engineering</a></li>-->
+
+</ul>
+<!--footer_ul_amrc ends here-->
+</div>
+
+<div class=" col-sm-4 col-md col-sm-4  col-12 col">
+<h5 class="headin5_amrc col_white_amrc pt2" style="color: #fafafa">Find us</h5>
+<!--headin5_amrc-->
+
+<p><i class="fa fa-location-arrow"></i>Address:  Ramanjaneyapuram,kadapa </p>
+<p><i class="fa fa-phone"></i>    </p>
+<p style="font-size: 12px;">@gmail.com<i class="fa fa fa-envelope"></i><br> </p>
+
+
+</div>
+
+
+
+
+
+<p class="text-center">All rights &copy reserved to Cmputer Dept. | Government Polytechnic for Women Kadapa</p>
+
+
+<!--social_footer_ul ends here-->
+
+</footer>
+
+
+
+
+</body>
+</html>
+</html>
